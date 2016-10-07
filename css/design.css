@@ -1,0 +1,353 @@
+body
+{
+	margin : auto;
+	margin-top: 5px;
+	margin-left: 30px;
+	}
+.head
+{
+	float: left;
+	height: 66px;
+
+}
+.head h3
+{
+	
+	color:black ;
+	height: 66px;
+	background: #58D68D;
+	
+	
+}
+header
+{
+	margin-top: -20px;
+	position: fixed;
+	padding: -10px;
+	font-family: 'Roboto', sans-serif;
+}
+h6
+{
+	margin: auto;
+	font-size: 30px;
+	text-align: center;
+	
+}
+h3
+{
+	margin-top: 1px;
+	text-align: center;
+	font-size: 57px;
+	float: left;
+	border:1px solid black;
+	font-family: monospace;
+	width :500px;
+	background: white;
+}
+#na1 h4
+{
+	font-family: cursive,monospace;
+	margin-top: 65px;
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	color: grey;
+	
+}
+#nav
+{
+	background: black;
+	float: right;
+	margin-left: 0px;
+	border: 1px solid black;
+	text-align: center;
+	word-spacing: 70px;
+	width: 1000px;
+	border-left: 10px;
+	height: 67px;
+	font-family: 'Roboto', sans-serif;
+
+}
+#name {
+	margin-top: 20px;
+}
+ul li
+{
+	display: inline;
+	font-family: fantasy;
+	font-size: 30px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #82E0AA;
+}
+
+ul a:hover
+{
+	color: #D6DBDF;
+	transition : font-size 1s;
+	font-size: 35px;
+}
+
+#info
+{
+	height: 20px;
+    width: 10%;
+
+}
+#note3
+{
+	float: left;
+	width:400px;
+	margin-left: 0px;
+	margin-top: 15px;
+	}
+
+#note3p
+{
+	background: blue;
+	float:left;
+	height:300px;
+	border-left: 10px;
+}
+p
+{
+
+	margin-left: 5px;
+	font-size: 18.7px;
+	font-family: sans-serif;
+	border-spacing: 5px;
+	border-left: 5px;
+
+
+}
+h4
+{
+	padding: 1%;
+	margin :auto;
+	text-align: center;
+	font-size: 57px;
+	font-family: monospace;
+	width :700px;
+	height: 100px;
+	background: white;
+}
+
+.container_12
+{
+	margin-top:-20px;
+
+}
+
+#spec ul li
+{
+	font-family: fantasy;
+	font-size: 10px;
+
+}
+.grid_2
+{
+	margin-left: 0px;
+}
+#gold
+{
+	margin-left: 2px;
+}
+.grid_6
+{
+}
+#spec
+{
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+h6{
+	
+	font-size: 40px;
+	margin-bottom:0px; 
+	text-align: center;
+	
+}
+#abtpara p
+{
+	padding-top: 0px;
+	margin-top: 0px;
+}
+footer
+{
+	background: grey;
+	height:100px;
+}
+
+.footerlink
+{
+	display: inline;
+	text-align: center;
+	word-spacing: 40px;
+}
+.footerlink ul li
+{
+
+	font-size: 20px;
+	font-family: monospace;
+
+
+}
+.footerlink a:hover
+{
+	transition : font-size 1s;
+	font-size: 25px;
+}
+.footerlink  a
+{
+	color: black;
+	
+}
+.footerlink ul li a:after
+{
+	padding-top: 5px;
+}
+.footer ul li:last-child:after
+{
+	content:' '
+}
+.social
+{
+	margin-left: 400px;
+}
+.social ul li
+{
+	display: inline;
+	margin-left: 100px;
+}
+
+#subhead1
+{
+	margin-left: 0px;
+}
+.grid_6 #subhead1 h5
+{
+	background: grey;
+	text-align: center;
+	color: red;
+	font-size: 30px;
+	font-family: sans-serif;
+	color: white;
+	border: 1px solid grey;
+
+}
+#appleimg:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+}
+#gold:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+}
+#black:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+}
+#silver:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+
+}
+#transparent:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+
+}
+#honor5:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+
+}
+#lenovo:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+
+}
+#motoz:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+
+}
+#le:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+
+}
+#huwei:hover
+{
+	transform: scale(1.1);
+	transition: transform 1s;
+
+}
+#applenews
+{
+	float: left;
+	width: 100px;
+}
+#general
+{
+	margin-top: -10px
+}
+#motoznews
+{
+	margin-left: 0px;
+	float: left;
+}
+#menu
+{
+	margin-top: 69px;
+	width: 1503px;
+	background: black;
+	word-spacing: 70px;
+	
+}
+#menu ul li a
+{
+	text-align: center;
+	display: inline;
+	color: #58D68D;
+}
+.grid_3 p a
+{
+	color:black;
+}
+.grid_3 p a:hover
+{
+	color: grey;
+}
+#contentname
+{
+	margin-top: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+#contentname h4
+{
+	margin-top: 0px;
+	padding-top: 0px;
+	font-family: 'Roboto', sans-serif;
+
+}
+#second .grid_3
+{
+	margin-left: 12x;
+}
+#gallery a:hover
+{
+	filter:brightness(50%);
+}
